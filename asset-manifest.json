@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aakash007-ai/Query-Interface/static/css/main.763385d2.css",
+    "main.js": "/Aakash007-ai/Query-Interface/static/js/main.e54ecac7.js",
+    "index.html": "/Aakash007-ai/Query-Interface/index.html",
+    "main.763385d2.css.map": "/Aakash007-ai/Query-Interface/static/css/main.763385d2.css.map",
+    "main.e54ecac7.js.map": "/Aakash007-ai/Query-Interface/static/js/main.e54ecac7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.763385d2.css",
+    "static/js/main.e54ecac7.js"
+  ]
+}
